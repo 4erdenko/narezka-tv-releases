@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/4erdenko/narezka-tv-releases/releases/latest"><strong>Скачать APK</strong></a>
+  · <a href="https://t.me/app_narezka_tv"><strong>Telegram-канал</strong></a>
   · <a href="https://4pda.to/forum/index.php?showtopic=1126006">Обсуждение на 4PDA</a>
   · <a href="https://github.com/4erdenko/narezka-tv-releases/releases">История версий</a>
 </p>
